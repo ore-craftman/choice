@@ -4,7 +4,7 @@ export const teachingHistory = [
     levels: [
       'Operating System (Spring 2018, Fall 2018, Spring 2019)',
       'Stats & Graph MATLAB (Spring 2019)',
-      'Numerical Methods (Spring 2019)',
+      'Numerical Methods (Spring 2009)',
     ],
   },
   {
